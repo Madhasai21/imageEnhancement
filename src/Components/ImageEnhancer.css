@@ -1,0 +1,44 @@
+/* ImageEnhancer.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: aliceblue;
+  }
+  
+  .images {
+    margin-top: 20px;
+  }
+  
+  .image-container {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .original-image,
+  .enhanced-image {
+    max-width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
