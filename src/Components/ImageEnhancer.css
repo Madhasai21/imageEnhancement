@@ -6,11 +6,13 @@
     padding: 20px;
     text-align: center;
   }
-  
-  h2 {
+  .ha{
+    color: rgb(255, 255, 255);
+  }
+  h3 {
     font-size: 24px;
     margin-bottom: 20px;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
   }
   
   .images {
